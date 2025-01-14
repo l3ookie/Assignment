@@ -1,8 +1,1 @@
-Colors = list()
-Colors.append("red")
-Colors.append("green")
-Colors.append("blue")
-print(Colors)
-Colors.append("yellow")
-Colors.append("purple")
-print(len(Colors))
+
